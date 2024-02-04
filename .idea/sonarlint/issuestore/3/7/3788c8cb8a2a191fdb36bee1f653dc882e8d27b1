@@ -1,0 +1,7 @@
+
+X
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄÞ
+g
+java:S2445"Q"jobExecution" is a method parameter, and should not be used for synchronization.(”ø—Á
+g
+java:S24450"Q"jobExecution" is a method parameter, and should not be used for synchronization.(”ø—Á

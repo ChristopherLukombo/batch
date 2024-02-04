@@ -1,0 +1,20 @@
+
+v
+java:S2293w"YReplace the type specification in this constructor call with the diamond operator ("<>").(”üİš8­Æì°×1
+|
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÚÓ„©ûÿÿÿÿ8¼Æì°×1
+_
+java:S68132"BRemove this field injection and use constructor injection instead.(êæÄŞ8Ğ¶«°×1
+_
+java:S68135"BRemove this field injection and use constructor injection instead.(êæÄŞ8Ğ¶«°×1
+_
+java:S68138"BRemove this field injection and use constructor injection instead.(êæÄŞ8Ğ¶«°×1
+_
+java:S6813;"BRemove this field injection and use constructor injection instead.(êæÄŞ8Ğ¶«°×1
+o
+java:S33053"RInject this field value directly into "jobOperator", the only method that uses it.(­ŸŒÌ8Ğ¶«°×1
+G	java:S106G"+Replace this use of System.err by a logger.(•¬ªĞ8øÕ°×1
+G	java:S106U"+Replace this use of System.err by a logger.(•¬ªĞ8úÕ°×1
+G	java:S106b"+Replace this use of System.err by a logger.(•¬ªĞ8…Çì°×1
+G
+java:S1481")Remove this unused "item" local variable.(à°ç8Çì°×1

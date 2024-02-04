@@ -1,0 +1,6 @@
+
+G	java:S106 "+Replace this use of System.err by a logger.(•¬ªÐ8˜µ«°×1
+I
+java:S1068"'Remove this unused "log" private field.(Œð¿Ëùÿÿÿÿ8 µ«°×1
+J
+java:S1068"(Remove this unused "job1" private field.(Žü«–ýÿÿÿÿ8 µ«°×1
